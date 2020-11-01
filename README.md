@@ -1,5 +1,9 @@
 # Zenn 使い方
 
+### 記事の作成
+
+`$ npx zenn new:article`
+
 ### ブラウザレビュー
 
 `$ npx zenn preview`
